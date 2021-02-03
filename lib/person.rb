@@ -1,6 +1,9 @@
 # your code goes here
 
+
+
 class Person
+
 @@all =[]
     attr_reader :name, :bank
     attr_accessor :bank, :happiness, :hygiene
@@ -17,6 +20,9 @@ class Person
 
     end
 
+    def 
+
+end
     
 
 
@@ -24,4 +30,4 @@ class Person
 
 
 
-end
+
